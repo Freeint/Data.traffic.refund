@@ -22,7 +22,7 @@ h1 {
 }
 
 h2 {
-    text-decoration: underline;
+    text-decoration: none;
     margin-bottom: 25px;
     color: green;
 }
@@ -43,7 +43,11 @@ h2 {
 input,
 select,
 textarea {
-
+    padding: 0.2rem;
+    background: transparent;
+    border: 1px solid black;
+    text-decoration-style: solid;
+    border-radius: 7px;
 }
 
 textarea {
