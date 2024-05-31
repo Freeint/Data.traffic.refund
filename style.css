@@ -43,7 +43,7 @@ h2 {
 input,
 select,
 textarea {
-    padding: 0.4rem;
+    padding: 0.2rem;
     background: transparent;
     border: 1px solid black;
     text-decoration-style: solid;
